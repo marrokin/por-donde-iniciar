@@ -11,7 +11,9 @@ Los editores de texto son herramientas versatiles y ligeras que nos ofrecen una 
 > **WEB OFICIAL: **[https://code.visualstudio.com/](https://code.visualstudio.com/)
 >
 > **DESCARGA: **[**https://code.visualstudio.com/\#alt-downloads**](https://code.visualstudio.com/#alt-downloads)
->
+
+---
+
 > **NOMBRE: **ATOM
 >
 > **CREADOR: **GitHub
