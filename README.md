@@ -20,9 +20,9 @@ Trataremos de recomendar solo tecnología libre y avalada por una comunidad.
 
 Nada de lo que se encuentre en este documento sera con el ánimo de favorecer, promocionar, o divulgar herramientas/software/cursos de pago, "si quieren  promocionar algo tendrán que aportar mucho contenido a este documento e invitarme a mucho café de lo contrario _**.I.**_**\_\_\(o\_o\)**.
 
-* ## SOFTWARE
-* ## EDITORES DE TEXTO / IDE's
-* ## RAMAS DE ESTUDIO
+* ## [SOFTWARE](/software.md)
+* ## [EDITORES DE TEXTO / IDE's](/editores-de-texto-ides.md)
+* ## [RAMAS DE ESTUDIO](/ramas-de-estudio.md)
 
 
 
