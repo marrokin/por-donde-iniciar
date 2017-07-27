@@ -24,8 +24,6 @@ Los editores de texto son herramientas versatiles y ligeras que nos ofrecen una 
 
 ---
 
-
-
 ## IDE's
 
 
