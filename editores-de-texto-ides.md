@@ -61,10 +61,42 @@ Los editores de texto son herramientas versatiles y ligeras que nos ofrecen una 
 > **LICENCIA:** MIT \(Software libre\)
 >
 > **DESCARGA:** [**https://github.com/adobe/brackets/releases/download**](https://github.com/adobe/brackets/releases/)
+>
+> ---
+>
+> **NOMBRE: **VIM
+>
+> **CREADOR: **Bram Moolenaar
+>
+> **WEB OFICIAL: **[http://www.vim.org/](http://www.vim.org/)
+>
+> **LICENCIA: **Vim License \(GNU-compatible\) charityware
+>
+> **DESCARGA: **[**https://vim.sourceforge.io/download.php**](https://vim.sourceforge.io/download.php)
+>
+> ---
+>
+> **NOMBRE: **LIGHTTABLE
+>
+> **CREADOR: **Chris Granger, Robert Attorri
+>
+> **WEB OFICIAL: **[http://lighttable.com/](http://lighttable.com/)
+>
+> **LICENCIA: **MIT \(Software libre\)
+>
+> **DESCARGA: **[**http://lighttable.com/**](http://lighttable.com/)
 
+## IDE's DE USO GENERAL
 
-
-## IDE's
+> **NOMBRE: **ECLIPSE
+>
+> **CREADOR: **IBM \(Object Technology International\)
+>
+> **WEB OFICIAL: **[https://eclipse.org/](https://eclipse.org/)
+>
+> **LICENCIA: **Licencia Publica de Eclipse
+>
+> **DESCARGA: **[**http://download.eclipse.org/eclipse/downloads/**](http://download.eclipse.org/eclipse/downloads/)
 
 
 
