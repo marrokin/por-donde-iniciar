@@ -121,6 +121,18 @@ Los editores de texto son herramientas versatiles y ligeras que nos ofrecen una 
 > **LICENCIA: **Software propietario
 >
 > **DESCARGA: **[**https://www.visualstudio.com/downloads/**](https://www.visualstudio.com/downloads/)
+>
+> ---
+>
+> **NOMBRE: **APTANA
+>
+> **CREADOR: **Aptana Inc.
+>
+> **WEB OFICIAL: **[https://www.visualstudio.com/vs/community/](https://www.visualstudio.com/vs/community/)
+>
+> **LICENCIA: **Aptana Public License, v1.0GNU General Public License 
+>
+> **DESCARGA: **[**http://www.aptana.com/products/studio3/download.html**](http://www.aptana.com/products/studio3/download.html)
 
 
 
