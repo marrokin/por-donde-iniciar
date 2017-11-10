@@ -10,7 +10,7 @@ Los editores de texto son herramientas versatiles y ligeras que nos ofrecen una 
 >
 > **WEB OFICIAL: **[https://code.visualstudio.com/](https://code.visualstudio.com/)
 >
-> **LICENCIA: **MIT \(software libre\)
+> **LICENCIA: **MIT \(Software libre\)
 >
 > **DESCARGA: **[**https://code.visualstudio.com/\#alt-downloads**](https://code.visualstudio.com/#alt-downloads)
 
@@ -22,9 +22,23 @@ Los editores de texto son herramientas versatiles y ligeras que nos ofrecen una 
 >
 > **WEB OFICIAL: **[https://atom.io/](https://atom.io/)
 >
-> **LICENCIA:** MIT \(software libre\)
+> **LICENCIA:** MIT \(Software libre\)
 >
 > **DESCARGA: **[**https://github.com/atom/atom/releases/**](https://github.com/atom/atom/releases/)
+
+---
+
+> NOMBRE: SUBLIME TEXT
+>
+> CREADOR: Jon Skinner
+>
+> WEB OFICIAL: [https://www.sublimetext.com/](https://www.sublimetext.com/)
+>
+> LICENCIA: Software propietario
+>
+> DESCARGA: [https://www.sublimetext.com/3](https://www.sublimetext.com/3)
+>
+> ---
 
 ## IDE's
 
