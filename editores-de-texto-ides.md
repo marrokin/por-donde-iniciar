@@ -97,6 +97,18 @@ Los editores de texto son herramientas versatiles y ligeras que nos ofrecen una 
 > **LICENCIA: **Licencia Publica de Eclipse
 >
 > **DESCARGA: **[**http://download.eclipse.org/eclipse/downloads/**](http://download.eclipse.org/eclipse/downloads/)
+>
+> ---
+>
+> **NOMBRE: **NETBEANS
+>
+> **CREADOR: **Sun Microsystems
+>
+> **WEB OFICIAL: **[https://netbeans.org/](https://netbeans.org/)
+>
+> **LICENCIA: **CDDL, GPL2
+>
+> **DESCARGA: **[**https://netbeans.org/downloads/**](https://netbeans.org/downloads/)
 
 
 
