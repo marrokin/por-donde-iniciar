@@ -48,7 +48,7 @@ Los editores de texto son herramientas versatiles y ligeras que nos ofrecen una 
 >
 > **LICENCIA:** Licencia pública general de GNU
 >
-> **DESCARGA:** [**https://notepad-plus-plus.org/download/v7.5.1.html**](https://notepad-plus-plus.org/download/v7.5.1.html)
+> **DESCARGA:** [**https://notepad-plus-plus.org/download/**](https://notepad-plus-plus.org/download/)
 >
 > ---
 >
