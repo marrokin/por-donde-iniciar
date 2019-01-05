@@ -23,6 +23,3 @@ Nada de lo que se encuentre en este documento sera con el ánimo de favorecer, p
 * ## [SOFTWARE](/software.md)
 * ## [EDITORES DE TEXTO / IDE's](/editores-de-texto-ides.md)
 * ## [RAMAS DE ESTUDIO](/ramas-de-estudio.md)
-
-
-
