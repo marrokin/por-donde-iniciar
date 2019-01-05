@@ -133,6 +133,3 @@ Los editores de texto son herramientas versatiles y ligeras que nos ofrecen una 
 > **LICENCIA: **Aptana Public License, v1.0GNU General Public License
 >
 > **DESCARGA: **[**http://www.aptana.com/products/studio3/download.html**](http://www.aptana.com/products/studio3/download.html)
-
-
-
